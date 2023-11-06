@@ -12,6 +12,14 @@ Welcome to the Online Sales Data Dashboard project! This interactive dashboard i
 
 *Diverse Visualizations: I offer a plethora of visualization options to help you communicate your data effectively. Choose from various chart types, including bar charts, pie charts, donut charts, cluster bar charts, line charts, area charts, maps, slicers, and more.
 
+# Getting Started:
+
+To get started with this project, follow these simple steps:
+
+   * Clone this repository to your local machine.
+   * Install Microsoft PowerBI in your PC. 
+   * Open the dashboard in your preferred environment.
+
 
 
 
